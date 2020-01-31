@@ -1,5 +1,6 @@
-iterami/Interpreters
---------------------
+iterami/Interpreters.htm
+------------------------
 
 * Contributing: https://iterami.com/Docs.htm/standards/contributing.htm
-* Docs: https://iterami.com/Docs.htm/repositories/interpreters.htm
+* Requires:
+  * [iterami/common](https://github.com/iterami/common)
